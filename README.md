@@ -9,5 +9,5 @@ Githubのファイル数やリポジトリサイズ制限があるため1フォ�
 1-99999:ここ!<br>
 100000-199999:https://github.com/k-kanade/2-to-n-exponent-100000-199999<br>
 200000-299999:https://github.com/k-kanade/2-to-n-exponent-200000-299999<br>
-300000-399999:https://github.com/k-kanade/2-to-n-exponent-300000-350000<br>
-300000-399999:https://github.com/k-kanade/2-to-n-exponent-350001-399999<br>
+300000-350000:https://github.com/k-kanade/2-to-n-exponent-300000-350000<br>
+350001-399999:https://github.com/k-kanade/2-to-n-exponent-350001-399999<br>
