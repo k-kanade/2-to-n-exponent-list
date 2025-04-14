@@ -25,3 +25,7 @@ nの範囲のリポジトリURLです。<br>
 △725001-750000:https://github.com/k-kanade/2-to-n-exponent-725001-750000<br>
 △750001-775000:https://github.com/k-kanade/2-to-n-exponent-750001-775000<br>
 △775001-799999:https://github.com/k-kanade/2-to-n-exponent-775001-799999<br>
+△800000-825000:https://github.com/k-kanade/2-to-n-exponent-800000-825000<br>
+△825001-850000:https://github.com/k-kanade/2-to-n-exponent-825001-850000<br>
+△850001-875000:https://github.com/k-kanade/2-to-n-exponent-850001-875000<br>
+△875001-899999:https://github.com/k-kanade/2-to-n-exponent-875001-899999<br>
